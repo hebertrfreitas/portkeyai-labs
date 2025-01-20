@@ -1,0 +1,12 @@
+{
+    "request": {
+      "method": "POST",
+      "url": "/v1/chat/completions"
+    },
+    "response": {
+      "status": 400,
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
